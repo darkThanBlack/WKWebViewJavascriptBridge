@@ -12,6 +12,18 @@
 
 > This project is inspired by [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)!
 
+
+
+# Change Log
+
+[@DarkThanBlack](https://github.com/darkThanBlack)  at 2026.05.21
+
+* Change WKWebViewJavascriptBridgeBase.Handler param from dict to Any
+* update podspec
+* 
+
+
+
 # What Can WKWebViewJavascriptBridge Do?
 
 You can write hybrid modules in just a few lines of code by using WKWebViewJavascriptBridge without the need to be concerned with the underlying messaging implementation.
