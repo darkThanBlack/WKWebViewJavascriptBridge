@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'XMWKWebViewJavascriptBridge'
+  s.name             = 'WKWebViewJavascriptBridge'
   s.version          = '1.2.4'
   s.summary          = 'A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.'
 
